@@ -3,7 +3,7 @@
 
 ****
 
-##1.比赛简介:
+## 1.比赛简介:
 
 [instant gratifation比赛链接](https://www.kaggle.com/c/instant-gratification/overview/description) 
 
@@ -11,11 +11,13 @@
 
 metric: AUC
 
-得分：
+kaggle kernel[链接](https://www.kaggle.com/meistermorxrc/0-97598-in-private-score?scriptVersionId=16004236)
+
+![得分:](https://github.com/Morxrc/kaggle-instant-gratifaction-scheme/blob/master/result.png)
 
 
 
-##2.比赛中的关键点：
+## 2.比赛中的关键点：
 
 偷懒借用[包大人](https://zhuanlan.zhihu.com/p/70102466)在赛后总结中将这个比赛看作一个满分100分的考试，考核关键点如下：
 
@@ -26,7 +28,7 @@ metric: AUC
 
 
 
-##3.本方案summary:
+## 3.本方案summary:
 
 ​	**1.**机遇三种偏为冷门，但是对此数据分布及其适合的模型进行建模。即：基于**GMM**（高斯混合模型），**QDA**（二次判别分析），**NUSVC**对数据建模。
 
